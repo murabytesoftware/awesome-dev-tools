@@ -76,6 +76,7 @@ We encourage contributions from the community, so if you have a favorite develop
 
 #### Developer Utilities
 
+  - [MuraTools](https://muratools.pages.dev/) - Free, browser-based tools for PDF, image, text, and developer tasks (JSON/XML/CSV/SQL/HTML/Markdown formatters, converters, and generators). No login, no uploads.
   - [ToolHover](https://toolhover.com) - Free online developer utilities including JSON formatter & validator, password generator, hash
   generator, Base64 encoder/decoder, text counter & converter, and QR code generator.
 
